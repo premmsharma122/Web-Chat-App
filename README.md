@@ -2,7 +2,10 @@
 
 A real-time chat application with secure authentication and media sharing.
 
-[Live Demo](#https://web-chat-app-eta-three.vercel.app/login) | [GitHub Repository](#)
+## Live Demo
+
+Check out the live app here: [Quick-Chat App](https://web-chat-app-eta-three.vercel.app/login)
+
 
 ---
 
