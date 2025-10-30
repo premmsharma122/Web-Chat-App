@@ -45,8 +45,8 @@ const LoginPage = () => {
         {currState === "Sign up" && (
           <input onChange={(e) => setFullName(e.target.value)} value={fullName} type="text" className='p-2 border border-gray-500 rounded-md focus:outline-none' placeholder='Full Name' required />
         )}
-        <input onChange={(e) => setEmail(e.target.value)} value={email} type="email" placeholder='Email Address' required className='p-2 border border-gray-500 rounded-md focus:outline-none focus:ring-2 focus:ring-indigo-500'/>
-        <input onChange={(e) => setPassword(e.target.value)} value={password} type="password" placeholder='Enter Password' required className='p-2 border border-gray-500 rounded-md focus:outline-none focus:ring-2 focus:ring-indigo-500'/>
+        <input onChange={(e) => setEmail(e.target.value)} value={email} type="email" placeholder='Use Test@gmail ' required className='p-2 border border-gray-500 rounded-md focus:outline-none focus:ring-2 focus:ring-indigo-500'/>
+        <input onChange={(e) => setPassword(e.target.value)} value={password} type="password" placeholder='dome-test1234' required className='p-2 border border-gray-500 rounded-md focus:outline-none focus:ring-2 focus:ring-indigo-500'/>
         {currState === "Sign up" && (
           <textarea onChange={(e) => setBio(e.target.value)} value={bio} rows={4} className='p-2 border border-gray-500 rounded-md focus:outline-none focus:ring-2 focus:ring-indigo-500' placeholder='provide a short bio...' required></textarea>
         )}
