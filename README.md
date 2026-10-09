@@ -7,7 +7,7 @@
 ![Auth](https://img.shields.io/badge/Auth-JWT-orange)
 ![Status](https://img.shields.io/badge/Status-Hackathon%20Build-purple)
 
-**🔗 Live Demo:** `<add-link>` | **🎥 Demo Video:** `<add-link>` | **📊 Pitch Deck:** `<add-link>`
+**🔗 Live Demo:** [Live Demo](https://web-chat-app-eta-three.vercel.app/login) | **🎥 Demo Video:** `<add-link>` | **📊 Pitch Deck:** `<add-link>`
 
 ---
 
