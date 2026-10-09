@@ -271,7 +271,5 @@ A simple, self-hostable chat foundation for classrooms, clubs, and small teams, 
 
 ---
 
-## 📜 License
-MIT. See `LICENSE`.
 
 ⭐ If you like this project, star the repo!
